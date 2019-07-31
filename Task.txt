@@ -1,0 +1,5 @@
+User Authorization
+
+Perform authorization for the one that was done in the lesson, but for two users: "Administrator" and "Moderator".
+The greeting should be appropriate, that is, "Hello, Administrator" or "Hello, Moderator."
+Implement the exit function.
